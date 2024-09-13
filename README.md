@@ -41,7 +41,7 @@ Este projeto está licenciado sob a [MIT License](LICENSE).
 ## Contato
 
 Para mais informações, entre em contato conosco através de:  
-**Pedro Henrique Carvalho Novaes** - [pedro.novaes@souunit.com.br](mailto:pedro.novaes@souunit.com.br)
+**Thiago Vinny Horta Frana Menezes** - [thiago.vinny@souunit.com.br)
 
 ---
 
