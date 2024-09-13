@@ -15,7 +15,7 @@ Bem-vindo ao repositório do **SustenAgro Connect**, uma plataforma inovadora qu
 ## Protótipo
 
 Nosso protótipo está disponível para testes e feedback. Acesse a versão inicial do aplicativo para explorar suas funcionalidades e nos ajudar com suas sugestões para o aprimoramento contínuo da plataforma.
-Protótipo(https://www.figma.com/proto/g9QbMuq2L2MQfJUQy7wjeH/Sustenagro?node-id=48-12&node-type=canvas&t=tZazcWnXqBTid6Qy-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=48%3A12)
+[Protótipo](https://www.figma.com/proto/g9QbMuq2L2MQfJUQy7wjeH/Sustenagro?node-id=48-12&node-type=canvas&t=tZazcWnXqBTid6Qy-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=48%3A12)
 
 ## Contribuição
 
